@@ -65,7 +65,7 @@ This is a React-based blog application that showcases articles on various topics
 
 ## Screenshot
 
-![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*S2xxGyx6r_GnJVxGgclWMw.png)
+![image](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*S2xxGyx6r_GnJVxGgclWMw.png)
 
 ## Nelify Deployed URL
 
