@@ -11,6 +11,7 @@ This is a React-based blog application that showcases articles on various topics
   - [Features](#features)
   - [Programming Languages Used](#programming-languages-used)
   - [Technologies Used](#technologies-used)
+  - [Screenshot](#screenshot)
   - [Nelify Deployed URL](#nelify-deployed-url)
 
 
@@ -62,7 +63,7 @@ This is a React-based blog application that showcases articles on various topics
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 </div>
 
-##Screen shot
+## Screenshot
 
 ![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*S2xxGyx6r_GnJVxGgclWMw.png)
 
